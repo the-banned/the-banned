@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, Were Banned</h1>
+<h3 align="center">A band setup in school, now trying to go further.</h3>
 
-<!--
-**the-banned/the-banned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 We're currently working on **Learning New Songs**
 
-Here are some ideas to get you started:
+- 🌱 We're currently learning **Artic Monkeys**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **We Made Pinbadges**
+
+<h3 align="left">Connect with Us:</h3>
+<p align="left">
+<a href="https://www.youtube.com/channel/UCMCAxstGoestGdZYutxobXQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Banned Youtube" height="30" width="40" /></a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-banned&show_icons=true&locale=en&layout=compact" alt="the-banned" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-banned&show_icons=true&locale=en" alt="the-banned" /></p>
+
