@@ -3,7 +3,7 @@
 
 - 🔭 We're currently working on **Learning New Songs**
 
-- 🌱 We're currently learning **Artic Monkeys**
+- 🌱 We're currently learning **Arctic Monkeys**
 
 - ⚡ Fun fact **We Made Pinbadges**
 
